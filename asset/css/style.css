@@ -1,0 +1,32 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+  background-image: url("../img/pokemondibujofondo.png");
+  background-attachment: fixed;
+  background-position: center; 
+  background-size: cover;
+  opacity: 0.9;
+
+}
+
+.row{
+
+	color: rgb(255, 228, 74);
+}
+
+.espacio-nombre-pokemon{
+	background-color: aliceblue;
+	margin-right: 200px;
+	text-align: center;
+}
+
+
+#chartContainer {
+    height: 300px; 
+    width: 100%;
+}
+
